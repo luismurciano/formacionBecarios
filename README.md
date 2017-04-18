@@ -20,3 +20,5 @@ Alejandro Monzon alexmonzonp@gmail.com
 Alejandro Martín Fernández alejandromarfz@gmail.com
 
 Adrian Sanchez adrian.sanchez@softtek.com
+
+Héctor Pérez hectorperezcuadrado@gmail.com
