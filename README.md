@@ -7,3 +7,5 @@ Luis Murciano luismurciano@gmail.com
 
 ## Becarios
 
+Héctor Pérez hectorperezcuadrado@gmail.com
+
