@@ -7,7 +7,7 @@ Luis Murciano luismurciano@gmail.com
 
 ## Becarios
 
-Alvaro Martinez-Tizon tizon15@gmail.com
+
 
 
 
