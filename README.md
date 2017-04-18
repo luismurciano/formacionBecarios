@@ -6,4 +6,5 @@ Repositorio de pruebas para practicas de becarios
 Luis Murciano luismurciano@gmail.com
 
 ## Becarios
+Daniel Moreno Alcubilla
 
