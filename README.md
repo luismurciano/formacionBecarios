@@ -6,7 +6,6 @@ Repositorio de pruebas para practicas de becarios
 Luis Murciano luismurciano@gmail.com
 
 ## Becarios
-
-Alvaro Martinez-Tizon tizon15@gmail.com
+Daniel Moreno Alcubilla Dmorenoalcy@gmail.com
 
 Marta Alonso martaaloortiz@gmail.com
